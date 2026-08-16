@@ -1,0 +1,6 @@
+{
+  "name": "ArthaAI - MSME Scheme & Subsidy Engine",
+  "description": "AI-powered opportunity discovery platform for Indian MSMEs to find and apply for government schemes, subsidies, and tenders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
