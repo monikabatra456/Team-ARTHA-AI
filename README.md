@@ -20,7 +20,7 @@ An AI-powered Opportunity Matching & Document Verification Engine for Indian MSM
 2. **Configure Environment Variables**:
    Create or edit the `.env` file in the root directory:
    ```env
-   PORT=3000
+   PORT=5000
    NODE_ENV=development
    GEMINI_API_KEY="your_google_gemini_api_key_here"
 
@@ -38,7 +38,7 @@ An AI-powered Opportunity Matching & Document Verification Engine for Indian MSM
    ```bash
    npm run dev
    ```
-   Open `http://localhost:3000` in your browser.
+   Open `http://localhost:5000` in your browser.
 
 4. **Production Preview Locally**:
    ```bash
